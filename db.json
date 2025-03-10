@@ -1,0 +1,154 @@
+{
+  "visits": [
+    {
+      "id": "1",
+      "date": "2025-03-10",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "client": {
+        "firstName": "Анна",
+        "lastName": "",
+        "id": 1,
+        "phone": "+79277896748"
+      },
+      "phone": "+79501234567",
+      "services": [
+        {
+          "id": 33,
+          "title": "Окрашивание"
+        }
+      ],
+      "employeeId": 1
+    },
+    {
+      "id": "2",
+      "date": "2025-03-10",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "client": {
+        "firstName": "Алёна",
+        "lastName": "",
+        "id": 2,
+        "phone": "+79277896799"
+      },
+      "phone": "+79507654321",
+      "services": [
+        {
+          "id": 4,
+          "title": "Стрижка женская"
+        }
+      ],
+      "employeeId": 1
+    },
+    {
+      "id": "3",
+      "date": "2025-03-10",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "client": {
+        "firstName": "Ольга",
+        "lastName": "",
+        "id": 3,
+        "phone": "+79277896800"
+      },
+      "phone": "+79507896543",
+      "services": [
+        {
+          "id": 5,
+          "title": "Окрашивание"
+        }
+      ],
+      "employeeId": 1
+    },
+    {
+      "id": "4",
+      "date": "2025-03-10",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "client": {
+        "firstName": "Екатерина",
+        "lastName": "",
+        "id": 4,
+        "phone": "+79277896900"
+      },
+      "phone": "+79503456789",
+      "services": [
+        {
+          "id": 6,
+          "title": "Стрижка женская"
+        }
+      ],
+      "employeeId": 2
+    },
+    {
+      "id": "5",
+      "date": "2025-03-10",
+      "startTime": "15:45",
+      "endTime": "16:30",
+      "client": {
+        "firstName": "Марина",
+        "lastName": "",
+        "id": 5,
+        "phone": "+79277897000"
+      },
+      "phone": "+79509876543",
+      "services": [
+        {
+          "id": 7,
+          "title": "Наращивание"
+        }
+      ],
+      "employeeId": 2
+    },
+    {
+      "id": "6",
+      "date": "2025-03-10",
+      "startTime": "16:45",
+      "endTime": "17:30",
+      "client": {
+        "firstName": "Дарья",
+        "lastName": "",
+        "id": 6,
+        "phone": "+79277897111"
+      },
+      "phone": "+79501112233",
+      "services": [
+        {
+          "id": 8,
+          "title": "Укладка"
+        }
+      ],
+      "employeeId": 1
+    },
+    {
+      "id": "7",
+      "date": "2025-03-10",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "client": {
+        "firstName": "Анжела",
+        "lastName": "",
+        "id": 9,
+        "phone": "+79233333333"
+      },
+      "phone": "+79501112232",
+      "services": [
+        {
+          "id": 8,
+          "title": "Укладка"
+        }
+      ],
+      "employeeId": 1
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Ирина"
+    },
+    {
+      "id": "2",
+      "name": "Мария"
+    }
+  ]
+}
