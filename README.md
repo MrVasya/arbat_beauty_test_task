@@ -16,6 +16,11 @@
 # Материалы для выполнения задачи
 - [Макет в figma](https://www.figma.com/design/x7JEew3yb3cVelAOQIzQYh/Untitled?node-id=1-1875&t=puXwIpODulitpKoO-0) (pixel perfect вёрстка не требуется, макет для ориентира)
 # Документация к API
+## Как запустить mock-server
+1. `git clone https://github.com/MrVasya/arbat_beauty_test_task`
+2. `cd arbat_beauty_test_task`
+3. `npm install`
+4. `node run server.js`
 ## Общая информация
 Базовый url: `http://localhost:3000/api/`
 ## Endpoints
